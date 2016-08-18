@@ -1,0 +1,8 @@
+#allcapital { 
+    
+    text-transform: uppercase;
+}
+
+#capital{
+  text-transform: capitalize;
+}

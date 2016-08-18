@@ -1,0 +1,14 @@
+table{
+    border: 2px solid  ;
+     border-color: green;
+}
+td{
+    border: 2px solid;
+     border-color: green;
+}
+
+#head
+{
+  background-color: green;
+}
+

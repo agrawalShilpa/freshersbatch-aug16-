@@ -1,0 +1,76 @@
+*{
+     background-image: url("background2.gif");
+}
+
+#title{
+
+  text-align:center;
+  color:red;
+  font-family: "serif",Times New Roman", Times;
+
+}
+
+#link_div{
+    background-color:darkseagreen;
+  }
+ a:link{
+      
+  color:green;
+ }
+ a:visited{
+    color:cornflowerblue;
+ }
+  a:hover
+  {
+    color:hotpink;  
+  
+  }
+ #photo{
+   
+   
+    position: relative;
+    left: 45%;
+    
+}
+ img{
+     border-radius:25px;
+     border-style: solid;
+    border-color: crimson;
+ 
+ }
+
+#generalinfo{
+   
+       color:DodgerBlue;
+     font-family: "serif",Times New Roman", Times;
+     font-size: 1000%;
+     font-weight: 600;
+
+}
+#Contact_Details{
+
+  color:green;
+
+}
+table{
+    border: 2px solid  ;
+     border-color: green;
+     
+     color:cyan;
+}
+td{
+    border: 2px solid;
+     border-color: green;
+}
+#edu_table{
+ position: relative;
+    left: 35%;
+
+}
+#gi{
+  color:green;
+  font-weight: 800;
+}
+   
+ 
+ 
